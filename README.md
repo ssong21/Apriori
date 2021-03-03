@@ -1,5 +1,5 @@
 # Apriori
-A MapReduce implementation of the Apriori algorithm.
+A MapReduce implementation of [the Apriori algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm).
 # Instructions
 IMPORTANT WARNING:
 
