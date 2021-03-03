@@ -1,6 +1,6 @@
 # Apriori
 A MapReduce implementation of the Apriori algorithm.
-
+# Instructions
 IMPORTANT WARNING:
 
 To properly run MRMiner, MultiLineInputFormat MUST been in the same directory as MRMiner
